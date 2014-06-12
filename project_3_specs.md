@@ -8,7 +8,7 @@ The objective of this project is to:
 
 
 ## CORE REQUIREMENTS
-* **Test It.** We suggest that you write request and model specs.
+* **Test It.** You must write request and model specs.
 * **Authentication.** Your app will maintain user accounts and profiles. Login credentials must be validated before users can gain access to your application.
 * **Handles invalid data.** Forms in your application should validate data and handle incorrect inputs. Validate sign up information, verify valid email addresses and secure passwords.
 * **Partials.** Use partials to DRY (Don’t Repeat Yourself) up your views.
