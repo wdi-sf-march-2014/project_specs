@@ -12,7 +12,7 @@ The objective of this project is to:
 * **Authentication.** Your app will maintain user accounts and profiles. Login credentials must be validated before users can gain access to your application.
 * **Handles invalid data.** Forms in your application should validate data and handle incorrect inputs. Validate sign up information, verify valid email addresses and secure passwords.
 * **Partials.** Use partials to DRY (Don’t Repeat Yourself) up your views.
-* **JavaScript.** Spice up the front-end of your app and have some event driven functionality. Pick framework(s), library(s) to improve your js codebase cleanliness, DRYness, and maintanability. For example, use Backbone.js, Angular.js, and/or other libraries, as necessary. If you want to write a JSON API with Rails, and build your frontend as a pure JS app, then go for it.
+* **JavaScript & jQuery** Spice up the front-end of your app and have some event driven functionality. Pick framework(s), library(s) to improve your js codebase cleanliness, DRYness, and maintanability. For example, use Backbone.js, Angular.js, and/or other libraries, as necessary. If you want to write a JSON API with Rails, and build your frontend as a pure JS app, then go for it.
 * **AJAX.** Use AJAX to communicate with the server without reloading the page. Some things to consider might be validating or saving form input.
 * **Advanced Rails.** Apply some of the advanced Rails topics learned during the last few weeks of the course such as searching or file upload.
 * **Ruby Gems.** Use gems to add functionality to your app.
