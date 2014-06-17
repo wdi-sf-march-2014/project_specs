@@ -44,7 +44,7 @@ Final project deliverables:
 
 ## TIMELINE
 
-* Tuesday, June 17th at 3:30pm - Ideation deliverables due & Project plan deliverables due. If you can have this done before then, that would be to your advantage. If this is completed early, please come to an instructor to get a check-off on your project.
+* Tuesday, June 17th- Wednesday, June 18th - Ideation deliverables due & Project plan deliverables due. If you can have this done before then, that would be to your advantage. If this is completed early, please come to an instructor to get a check-off on your project.
 * Thursday, June 26th at 9:30am - Final project deliverables due
 
 ## WHAT WE ARE LOOKING FOR
