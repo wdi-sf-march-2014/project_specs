@@ -9,16 +9,17 @@ The objective of this project is to:
 
 ## CORE REQUIREMENTS
 * **Test It.** You must write request and model specs.
-* **Authentication.** Your app will maintain user accounts and profiles. Login credentials must be validated before users can gain access to your application.
+* **Authentication and Authentication** Your app will maintain user accounts and profiles. Login credentials must be validated before users can gain access to your application.
 * **Handles invalid data.** Forms in your application should validate data and handle incorrect inputs. Validate sign up information, verify valid email addresses and secure passwords.
 * **Partials.** Use partials to DRY (Don’t Repeat Yourself) up your views.
 * **JavaScript & jQuery** Spice up the front-end of your app and have some event driven functionality. Pick framework(s), library(s) to improve your js codebase cleanliness, DRYness, and maintanability. For example, use Backbone.js, Angular.js, and/or other libraries, as necessary. If you want to write a JSON API with Rails, and build your frontend as a pure JS app, then go for it.
+* **CSS & Styling** 
 * **AJAX.** Use AJAX to communicate with the server without reloading the page. Some things to consider might be validating or saving form input.
 * **Advanced Rails.** Apply some of the advanced Rails topics learned during the last few weeks of the course such as searching or file upload.
 * **Ruby Gems.** Use gems to add functionality to your app.
 * **External APIs.** Use external APIs to add functionality to your app.
 * **Heroku.** Deploy your code to Heroku.
-
+* **Documentation** README.md contains purpose and description of app and code is commented
 
 ## OPTIONAL ADD-ONS
 
@@ -60,4 +61,70 @@ We’ll also be looking at:
 * Quality of communication around decision-making. That is, can you defend why you chose a certain technology or why you implemented your solution in a certain way?
 * Your ability to pick up new technologies.
 * Your ability to take full advantage of a language’s features.
+
+
+
+## Meets Expectations Rubric
+* **Test It.** 
+  * Basics
+    * No empty tests
+    * All tests passing
+    * Each major component should have some tests
+    * Factories used for models 
+  * Bonus
+    * Some Feature Testing
+    * JavaScript Testing
+* **Authentication and Authorization** 
+  * Basics
+    * Some kind of authentication present
+    * Access implemented control to specific models or actions
+  * Bonus
+    * OAuth used
+* **Handles invalid data.** 
+  * Basics
+    * Model validations present, including presence and format checks
+    * Error messages displayed to user
+  * Bonus
+    * Flash messages
+    * Client side validation
+* **Partials.** 
+  * Basics
+    * No code replication in views
+* **JavaScript & jQuery** 
+  * Basics
+    * Some use of JavaScript on the client side
+  * Bonus 
+    * JavaScript Framework (e.g. Angular, jQuery, Backbone, Underscore or Ember) used
+* **CSS & Styling** 
+  * Basics
+    * Customized Style Sheet or Customization of Framework like Bootstrap
+  * Bonus
+    * SASS or LESS or Compass
+* **AJAX** 
+  * Basics
+     * Some use of AJAX API on the client side
+  * Bonus
+     * Ajax form validation with error display
+     * Ajax login implemented
+* **Advanced Rails.**
+  * Bonus (at least one of)
+     *  Search, Pagination, Image Upload, Nokogiri
+* **External APIs.** 
+  * Basics 
+    * Use one external API
+  * Bonus
+    * Use more than one :)
+* **Heroku.**
+  * Basics
+    * App deployed to Heroku
+* **Documentation** 
+  * Basics
+    * README.md contains
+      * Description of app
+      * Link to live application included in README.md
+      * Installation instructions (including notes about required_api keys) 
+      * List of technologies used
+    * Complex methods are commented  
+    
+     
 
